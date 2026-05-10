@@ -2,6 +2,8 @@
 
 The hall of information about me (I dump anything that shows information about me on here)
 
+![Snake](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/output/github-snake-dark.svg)
+
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.terminal.svg)
 
