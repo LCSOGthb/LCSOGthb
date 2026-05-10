@@ -25,3 +25,4 @@ jobs:
           plugin_achievements: yes
           plugin_activity: yes
           plugin_calendar: yes
+          plugin_code: yes
