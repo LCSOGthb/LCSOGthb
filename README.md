@@ -6,7 +6,7 @@ The hall of information about me (I dump anything that shows information about m
 
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.terminal.svg)
-
+---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LCSOGthb&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LCSOGthb&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LCSOGthb&theme=apprentice)
