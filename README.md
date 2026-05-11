@@ -4,6 +4,17 @@ The hall of information about me (I dump anything that shows information about m
 
 ![Snake](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/output/github-snake-dark.svg)
 ![My GitHub Game](game.gif)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/refs/heads/github-breakout/images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/refs/heads/github-breakout/images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/refs/heads/github-breakout/images/breakout-light.svg" />
+</picture>
 
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.terminal.svg)
