@@ -33,9 +33,9 @@ The hall of information about me (I dump anything that shows information about m
 
 **🐱 My GitHub Data** 
 
-> 📦 63.6 kB Used in GitHub's Storage 
+> 📦 66.8 kB Used in GitHub's Storage 
  > 
-> 🏆 341 Contributions in the Year 2026
+> 🏆 348 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,43 +43,6 @@ The hall of information about me (I dump anything that shows information about m
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                407 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-🌆 Daytime                489 commits         ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌃 Evening                663 commits         ██████████░░░░░░░░░░░░░░░   38.24 % 
-🌙 Night                  175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   381 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
-Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Wednesday                266 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Thursday                 330 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Friday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Saturday                 138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Sunday                   227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -97,5 +60,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:20:09 UTC
+ Last Updated on 23/05/2026 19:45:19 UTC
 <!--END_SECTION:waka-->
