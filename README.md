@@ -27,15 +27,13 @@ The hall of information about me (I dump anything that shows information about m
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2023%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 78.5 kB Used in GitHub's Storage 
+> 📦 81.8 kB Used in GitHub's Storage 
  > 
 > 🏆 371 Contributions in the Year 2026
  > 
@@ -45,43 +43,6 @@ The hall of information about me (I dump anything that shows information about m
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                411 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-🌆 Daytime                495 commits         ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-🌃 Evening                687 commits         ██████████░░░░░░░░░░░░░░░   38.86 % 
-🌙 Night                  175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   385 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-Tuesday                  142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Wednesday                288 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Thursday                 330 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Friday                   250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 140 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-Sunday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -99,5 +60,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:35:50 UTC
+ Last Updated on 28/05/2026 20:44:36 UTC
 <!--END_SECTION:waka-->
