@@ -27,15 +27,13 @@ The hall of information about me (I dump anything that shows information about m
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2023%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 111.8 kB Used in GitHub's Storage 
+> 📦 114.1 kB Used in GitHub's Storage 
  > 
 > 🏆 377 Contributions in the Year 2026
  > 
@@ -99,5 +97,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2026 19:54:39 UTC
+ Last Updated on 07/06/2026 19:55:55 UTC
 <!--END_SECTION:waka-->
