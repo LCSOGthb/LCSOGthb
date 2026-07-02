@@ -35,7 +35,7 @@ The hall of information about me (I dump anything that shows information about m
 
 **🐱 My GitHub Data** 
 
-> 📦 195.9 kB Used in GitHub's Storage 
+> 📦 199.3 kB Used in GitHub's Storage 
  > 
 > 🏆 408 Contributions in the Year 2026
  > 
@@ -70,16 +70,17 @@ Sunday                   291 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Github                   9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ZGVmODQ1NDQtMDU1ZC00YmQ4L6 mins              █████████████████░░░░░░░░   67.85 % 
+Repo                     3 mins              ████████░░░░░░░░░░░░░░░░░   32.15 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,5 +100,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2026 20:25:07 UTC
+ Last Updated on 02/07/2026 20:01:28 UTC
 <!--END_SECTION:waka-->
