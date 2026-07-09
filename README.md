@@ -35,7 +35,7 @@ The hall of information about me (I dump anything that shows information about m
 
 **🐱 My GitHub Data** 
 
-> 📦 214.5 kB Used in GitHub's Storage 
+> 📦 216.5 kB Used in GitHub's Storage 
  > 
 > 🏆 423 Contributions in the Year 2026
  > 
@@ -70,24 +70,26 @@ Sunday                   291 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               29 mins             ███████████░░░░░░░░░░░░░░   43.26 % 
-Git Config               24 mins             █████████░░░░░░░░░░░░░░░░   35.49 % 
-Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               30 mins             █████████░░░░░░░░░░░░░░░░   34.95 % 
+JSON                     24 mins             ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Git Config               24 mins             ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  48 mins             ██████████████████░░░░░░░   70.37 % 
-Github                   20 mins             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+VS Code                  1 hr                █████████████████░░░░░░░░   69.94 % 
+Unknown Editor           15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Github                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
 
 🐱‍💻 Projects: 
-LaunchLoop               57 mins             █████████████████████░░░░   84.28 % 
-ZGVmODQ1NDQtMDU1ZC00YmQ4L7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Repo                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+LaunchLoop               57 mins             █████████████████░░░░░░░░   66.11 % 
+LaunchLoop-Experiment    28 mins             ████████░░░░░░░░░░░░░░░░░   32.96 % 
+ZGVmODQ1NDQtMDU1ZC00YmQ4L0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -107,5 +109,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 08/07/2026 20:03:35 UTC
+ Last Updated on 09/07/2026 20:18:59 UTC
 <!--END_SECTION:waka-->
