@@ -27,15 +27,15 @@ The hall of information about me (I dump anything that shows information about m
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 216.5 kB Used in GitHub's Storage 
+> 📦 217.2 kB Used in GitHub's Storage 
  > 
 > 🏆 423 Contributions in the Year 2026
  > 
@@ -70,26 +70,21 @@ Sunday                   291 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               30 mins             █████████░░░░░░░░░░░░░░░░   34.95 % 
-JSON                     24 mins             ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-Git Config               24 mins             ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+JSON                     24 mins             ████████████████████░░░░░   81.95 % 
+Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████░░░░░░░░   69.94 % 
-Unknown Editor           15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Github                   10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Unknown Editor           15 mins             █████████████░░░░░░░░░░░░   52.34 % 
+VS Code                  14 mins             ████████████░░░░░░░░░░░░░   47.66 % 
 
 🐱‍💻 Projects: 
-LaunchLoop               57 mins             █████████████████░░░░░░░░   66.11 % 
-LaunchLoop-Experiment    28 mins             ████████░░░░░░░░░░░░░░░░░   32.96 % 
-ZGVmODQ1NDQtMDU1ZC00YmQ4L0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-app                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+LaunchLoop-Experiment    28 mins             ████████████████████████░   94.74 % 
+LaunchLoop               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -109,5 +104,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 20:18:59 UTC
+ Last Updated on 10/07/2026 20:00:51 UTC
 <!--END_SECTION:waka-->
