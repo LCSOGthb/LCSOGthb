@@ -35,34 +35,34 @@ The hall of information about me (I dump anything that shows information about m
 
 **🐱 My GitHub Data** 
 
-> 📦 217.2 kB Used in GitHub's Storage 
+> 📦 219.1 kB Used in GitHub's Storage 
  > 
-> 🏆 423 Contributions in the Year 2026
+> 🏆 425 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                578 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-🌆 Daytime                753 commits         ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-🌃 Evening                974 commits         ██████████░░░░░░░░░░░░░░░   38.79 % 
+🌞 Morning                579 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+🌆 Daytime                753 commits         ███████░░░░░░░░░░░░░░░░░░   29.98 % 
+🌃 Evening                974 commits         ██████████░░░░░░░░░░░░░░░   38.77 % 
 🌙 Night                  206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   462 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Monday                   462 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 Tuesday                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Wednesday                422 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Thursday                 552 commits         █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Wednesday                422 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Thursday                 552 commits         █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
 Friday                   386 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Saturday                 225 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Sunday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Saturday                 226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Sunday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 ```
 
 
@@ -90,11 +90,11 @@ Windows                  30 mins             ███████████�
 **I Mostly Code in Java** 
 
 ```text
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
@@ -104,5 +104,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 20:00:51 UTC
+ Last Updated on 11/07/2026 19:42:01 UTC
 <!--END_SECTION:waka-->
