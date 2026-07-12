@@ -29,15 +29,15 @@ The hall of information about me (I dump anything that shows information about m
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 219.1 kB Used in GitHub's Storage 
+> 📦 221.1 kB Used in GitHub's Storage 
  > 
-> 🏆 425 Contributions in the Year 2026
+> 🏆 426 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,11 +90,11 @@ Windows                  30 mins             ███████████�
 **I Mostly Code in Java** 
 
 ```text
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
@@ -104,5 +104,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 11/07/2026 19:42:01 UTC
+ Last Updated on 12/07/2026 19:40:44 UTC
 <!--END_SECTION:waka-->
