@@ -31,13 +31,13 @@ The hall of information about me (I dump anything that shows information about m
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.21%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 235.0 kB Used in GitHub's Storage 
+> 📦 236.8 kB Used in GitHub's Storage 
  > 
-> 🏆 430 Contributions in the Year 2026
+> 🏆 439 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,21 +48,21 @@ The hall of information about me (I dump anything that shows information about m
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                581 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-🌆 Daytime                753 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌃 Evening                976 commits         ██████████░░░░░░░░░░░░░░░   38.79 % 
-🌙 Night                  206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+🌞 Morning                581 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+🌆 Daytime                753 commits         ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+🌃 Evening                979 commits         ██████████░░░░░░░░░░░░░░░   38.80 % 
+🌙 Night                  210 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   464 commits         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Tuesday                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Wednesday                422 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Thursday                 552 commits         █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Friday                   388 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Saturday                 226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Sunday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Monday                   464 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Tuesday                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Wednesday                426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Thursday                 552 commits         █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Friday                   388 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Saturday                 226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Sunday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 ```
 
 
@@ -70,16 +70,20 @@ Sunday                   291 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               16 mins             ████████████░░░░░░░░░░░░░   49.83 % 
+Git Config               10 mins             ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Git                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LaunchLoop               32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -99,5 +103,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2026 20:06:37 UTC
+ Last Updated on 21/07/2026 20:02:26 UTC
 <!--END_SECTION:waka-->
