@@ -27,17 +27,15 @@ The hall of information about me (I dump anything that shows information about m
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 238.6 kB Used in GitHub's Storage 
+> 📦 240.8 kB Used in GitHub's Storage 
  > 
-> 🏆 447 Contributions in the Year 2026
+> 🏆 456 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,21 +46,21 @@ The hall of information about me (I dump anything that shows information about m
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                583 commits         ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-🌆 Daytime                753 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-🌃 Evening                983 commits         ██████████░░░░░░░░░░░░░░░   38.85 % 
-🌙 Night                  211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+🌞 Morning                587 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌆 Daytime                753 commits         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+🌃 Evening                1006 commits        ██████████░░░░░░░░░░░░░░░   39.27 % 
+🌙 Night                  216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   464 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Tuesday                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Wednesday                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-Thursday                 553 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Friday                   388 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Saturday                 226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Sunday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Monday                   465 commits         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Tuesday                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Wednesday                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Thursday                 569 commits         ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+Friday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Saturday                 227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Sunday                   291 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
@@ -103,5 +101,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 19:55:19 UTC
+ Last Updated on 23/07/2026 19:56:51 UTC
 <!--END_SECTION:waka-->
