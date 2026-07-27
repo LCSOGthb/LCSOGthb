@@ -27,7 +27,9 @@ The hall of information about me (I dump anything that shows information about m
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,7 +37,7 @@ The hall of information about me (I dump anything that shows information about m
 
 **🐱 My GitHub Data** 
 
-> 📦 245.4 kB Used in GitHub's Storage 
+> 📦 247.5 kB Used in GitHub's Storage 
  > 
 > 🏆 476 Contributions in the Year 2026
  > 
@@ -86,6 +88,28 @@ LaunchLoop               2 hrs 3 mins        ███████████�
 Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 24 mins (19.9%)
+
+✍️ 12 lines written by AI, 138 lines written by hand (8.0% AI-written)
+
+🔤 65,847 Input Tokens, 8,903 Output Tokens
+
+💵 $0.11 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 58 AI Prompts
+
+Opencode-Cli             12 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 8.0% of written lines came from AI
+📚 Verbose Prompter — average 5,925 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🔍 Hands-On Reviewer — 94.64% of changed lines were hand-edited
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -103,5 +127,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:45:27 UTC
+ Last Updated on 27/07/2026 20:05:54 UTC
 <!--END_SECTION:waka-->
