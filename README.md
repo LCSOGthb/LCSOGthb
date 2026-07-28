@@ -27,44 +27,40 @@ The hall of information about me (I dump anything that shows information about m
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2025%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.54%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 247.5 kB Used in GitHub's Storage 
+> 📦 249.6 kB Used in GitHub's Storage 
  > 
-> 🏆 476 Contributions in the Year 2026
+> 🏆 477 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                800 commits         ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-🌆 Daytime                981 commits         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-🌃 Evening                1293 commits        ██████████░░░░░░░░░░░░░░░   38.59 % 
-🌙 Night                  277 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+🌞 Morning                837 commits         ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+🌆 Daytime                989 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                1325 commits        ██████████░░░░░░░░░░░░░░░   38.57 % 
+🌙 Night                  284 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   579 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Tuesday                  217 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Wednesday                586 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Thursday                 738 commits         ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Friday                   521 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 312 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Sunday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Monday                   584 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Tuesday                  222 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Wednesday                621 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+Thursday                 754 commits         █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+Friday                   525 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Saturday                 316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Sunday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 ```
 
 
@@ -72,28 +68,27 @@ Sunday                   398 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        █████████████████░░░░░░░░   67.86 % 
-JSON                     24 mins             █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Git                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               1 hr 23 mins        ███████████████████░░░░░░   75.81 % 
+JSON                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaunchLoop               2 hrs 3 mins        █████████████████████████   100.00 % 
+LaunchLoop               1 hr 50 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (19.9%)
+⏱ AI Coding Time: 24 mins (22.24%)
 
-✍️ 12 lines written by AI, 138 lines written by hand (8.0% AI-written)
+✍️ 12 lines written by AI, 130 lines written by hand (8.45% AI-written)
 
 🔤 65,847 Input Tokens, 8,903 Output Tokens
 
@@ -104,10 +99,10 @@ Windows                  2 hrs 3 mins        ███████████�
 Opencode-Cli             12 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 8.45% of written lines came from AI
 📚 Verbose Prompter — average 5,925 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 94.64% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 94.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -127,5 +122,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 20:05:54 UTC
+ Last Updated on 28/07/2026 20:01:45 UTC
 <!--END_SECTION:waka-->
