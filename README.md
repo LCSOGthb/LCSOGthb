@@ -27,13 +27,17 @@ The hall of information about me (I dump anything that shows information about m
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2025%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 249.6 kB Used in GitHub's Storage 
+> 📦 251.7 kB Used in GitHub's Storage 
  > 
 > 🏆 477 Contributions in the Year 2026
  > 
@@ -68,41 +72,40 @@ Sunday                   413 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        ███████████████████░░░░░░   75.81 % 
-JSON                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+JSON                     14 mins             ██████████████░░░░░░░░░░░   57.50 % 
+TypeScript               10 mins             ███████████░░░░░░░░░░░░░░   42.50 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaunchLoop               1 hr 50 mins        █████████████████████████   100.00 % 
+LaunchLoop               24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (22.24%)
+⏱ AI Coding Time: 10 mins (42.5%)
 
-✍️ 12 lines written by AI, 130 lines written by hand (8.45% AI-written)
+✍️ 12 lines written by AI, 2 lines written by hand (85.71% AI-written)
 
-🔤 65,847 Input Tokens, 8,903 Output Tokens
+🔤 20,477 Input Tokens, 3,551 Output Tokens
 
 💵 $0.11 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 58 AI Prompts
+🧠 3 AI Sessions, 6 AI Prompts
 
 Opencode-Cli             12 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 8.45% of written lines came from AI
-📚 Verbose Prompter — average 5,925 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 94.12% of changed lines were hand-edited
+🤖 AI-Driven — 85.71% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 25.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -122,5 +125,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:01:45 UTC
+ Last Updated on 29/07/2026 19:54:14 UTC
 <!--END_SECTION:waka-->
