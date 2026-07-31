@@ -37,7 +37,7 @@ The hall of information about me (I dump anything that shows information about m
 
 **🐱 My GitHub Data** 
 
-> 📦 253.5 kB Used in GitHub's Storage 
+> 📦 254.5 kB Used in GitHub's Storage 
  > 
 > 🏆 479 Contributions in the Year 2026
  > 
@@ -72,40 +72,22 @@ Sunday                   413 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     14 mins             ██████████████░░░░░░░░░░░   57.50 % 
-TypeScript               10 mins             ███████████░░░░░░░░░░░░░░   42.50 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LaunchLoop               24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 mins (42.5%)
-
-✍️ 12 lines written by AI, 2 lines written by hand (85.71% AI-written)
-
-🔤 20,477 Input Tokens, 3,551 Output Tokens
-
-💵 $0.11 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 6 AI Prompts
-
-Opencode-Cli             12 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 85.71% of written lines came from AI
-📝 Concise Prompter — average 200 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 25.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -125,5 +107,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:02:46 UTC
+ Last Updated on 31/07/2026 20:04:23 UTC
 <!--END_SECTION:waka-->
