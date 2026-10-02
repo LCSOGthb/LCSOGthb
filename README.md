@@ -37,7 +37,7 @@ The hall of information about me (I dump anything that shows information about m
 
 **🐱 My GitHub Data** 
 
-> 📦 319.3 kB Used in GitHub's Storage 
+> 📦 320.2 kB Used in GitHub's Storage 
  > 
 > 🏆 488 Contributions in the Year 2026
  > 
@@ -107,5 +107,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 01/10/2026 22:52:15 UTC
+ Last Updated on 02/10/2026 22:27:54 UTC
 <!--END_SECTION:waka-->
