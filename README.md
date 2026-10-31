@@ -37,7 +37,7 @@ The hall of information about me (I dump anything that shows information about m
 
 **🐱 My GitHub Data** 
 
-> 📦 344.5 kB Used in GitHub's Storage 
+> 📦 345.6 kB Used in GitHub's Storage 
  > 
 > 🏆 493 Contributions in the Year 2026
  > 
@@ -93,11 +93,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -107,5 +107,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/LCSOGthb/LCSOGthb/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:36:01 UTC
+ Last Updated on 31/10/2026 21:49:48 UTC
 <!--END_SECTION:waka-->
